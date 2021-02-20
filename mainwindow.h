@@ -36,7 +36,7 @@ private:
     Ui::MainWindow *ui;
     //初始化
     QAction *action1,*action2,*action3,*action4,*action6;//工具栏子项
-    inti=0;
+    int text=9;
     void layouts();//界面
 
     void InitData();//数据
