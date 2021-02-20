@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="halconOperator\closingcircle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="createoperator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="halconOperator\drawcircles.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="halconOperator\drawellipses.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="halconOperator\drawrects.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="halconOperator\drawrotaterects.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="halconOperator\h_operators.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mainwindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="myenum.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mythread.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mywin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mywin_three.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mywin_two.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="halconOperator\openingcircle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="halconOperator\thresholds.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="halconOperator\closingcircle.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClInclude Include="createoperator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <QtMoc Include="halconOperator\drawcircles.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="halconOperator\drawellipses.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="halconOperator\drawrects.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="halconOperator\drawrotaterects.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClInclude Include="halconOperator\h_operators.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <QtMoc Include="mainwindow.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClInclude Include="myenum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <QtMoc Include="mythread.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="mywin.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="mywin_three.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="mywin_two.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="halconOperator\openingcircle.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="halconOperator\thresholds.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+  </ItemGroup>
+  <ItemGroup>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <CustomBuild Include="debug\moc_predefs.h.cbt">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="release\moc_predefs.h.cbt">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="halconOperator\closingcircle.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="halconOperator\drawcircles.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="halconOperator\drawellipses.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="halconOperator\drawrects.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="halconOperator\drawrotaterects.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="mainwindow.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="mywin.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="mywin_three.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="mywin_two.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="halconOperator\openingcircle.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="halconOperator\thresholds.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+  </ItemGroup>
+</Project>

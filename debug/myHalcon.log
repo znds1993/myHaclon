@@ -1,0 +1,160 @@
+﻿  Uic'ing halconOperator\closingcircle.ui...
+  Uic'ing halconOperator\openingcircle.ui...
+  Moc'ing halconOperator\closingcircle.h...
+  Moc'ing halconOperator\drawcircles.h...
+  Moc'ing mainwindow.h...
+  Moc'ing mywin_three.h...
+  Moc'ing mywin_two.h...
+  Moc'ing halconOperator\openingcircle.h...
+  Moc'ing halconOperator\thresholds.h...
+  closingcircle.cpp
+  createoperator.cpp
+  drawcircles.cpp
+  drawellipses.cpp
+  drawrects.cpp
+  drawrotaterects.cpp
+  h_operators.cpp
+  main.cpp
+  mainwindow.cpp
+  myenum.cpp
+  mythread.cpp
+  mywin.cpp
+C:\Users\86130\Documents\myHalcon\halconOperator\h_operators.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\86130\Documents\myHalcon\halconOperator\drawcircles.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\86130\Documents\myHalcon\mainwindow.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\86130\Documents\myHalcon\halconOperator\drawellipses.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 halconOperator\drawellipses.cpp)
+C:\Users\86130\Documents\myHalcon\mywin.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\86130\Documents\myHalcon\createoperator.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 createoperator.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\h_operators.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 halconOperator\drawrotaterects.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\h_operators.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 halconOperator\drawrects.cpp)
+C:\Users\86130\Documents\myHalcon\mainwindow.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 main.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\h_operators.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 halconOperator\h_operators.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\h_operators.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 halconOperator\drawellipses.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\h_operators.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 halconOperator\drawcircles.cpp)
+C:\Users\86130\Documents\myHalcon\mainwindow.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 mainwindow.cpp)
+C:\Users\86130\Documents\myHalcon\mywin.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 mywin.cpp)
+C:\Users\86130\Documents\myHalcon\mywin.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 main.cpp)
+C:\Users\86130\Documents\myHalcon\mywin.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 mainwindow.cpp)
+  mywin_three.cpp
+C:\Users\86130\Documents\myHalcon\mywin_three.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\86130\Documents\myHalcon\mywin_three.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 mywin_three.cpp)
+C:\Users\86130\Documents\myHalcon\createoperator.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 mywin_three.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\h_operators.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 createoperator.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\h_operators.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 mywin_three.cpp)
+  mywin_two.cpp
+C:\Users\86130\Documents\myHalcon\mywin_two.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\86130\Documents\myHalcon\mywin_two.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 mywin_two.cpp)
+C:\Users\86130\Documents\myHalcon\createoperator.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 mywin_two.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\h_operators.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 mywin_two.cpp)
+C:\Users\86130\Documents\myHalcon\createoperator.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 mythread.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\h_operators.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 mythread.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\thresholds.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 createoperator.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\thresholds.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 mywin_three.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\h_operators.cpp(16,65): warning C4100: “isRead”: 未引用的形参
+C:\Users\86130\Documents\myHalcon\halconOperator\h_operators.cpp(16,58): warning C4100: “v”: 未引用的形参
+C:\Users\86130\Documents\myHalcon\halconOperator\h_operators.cpp(21,61): warning C4100: “v”: 未引用的形参
+C:\Users\86130\Documents\myHalcon\halconOperator\drawellipses.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 createoperator.cpp)
+C:\Users\86130\Documents\myHalcon\createoperator.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 mywin.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\h_operators.cpp(51,45): warning C4101: “e”: 未引用的局部变量
+C:\Users\86130\Documents\myHalcon\halconOperator\h_operators.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 mywin.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\thresholds.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 mythread.cpp)
+C:\Users\86130\Documents\myHalcon\createoperator.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 mainwindow.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\h_operators.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 mainwindow.cpp)
+C:\Users\86130\Documents\myHalcon\createoperator.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 main.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\h_operators.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 main.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\thresholds.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 mywin.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\thresholds.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 mainwindow.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\drawcircles.cpp(43,37): warning C4101: “e”: 未引用的局部变量
+C:\Users\86130\Documents\myHalcon\halconOperator\thresholds.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 main.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\drawellipses.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 mywin_three.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\drawellipses.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 mythread.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\drawellipses.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 mywin.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\drawellipses.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 mainwindow.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\drawellipses.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 main.cpp)
+C:\Users\86130\Documents\myHalcon\mywin_three.cpp(28,41): warning C4101: “e”: 未引用的局部变量
+C:\Users\86130\Documents\myHalcon\mywin_three.cpp(46,41): warning C4101: “e”: 未引用的局部变量
+C:\Users\86130\Documents\myHalcon\mythread.cpp(13,41): warning C4101: “e”: 未引用的局部变量
+  openingcircle.cpp
+  thresholds.cpp
+C:\Users\86130\Documents\myHalcon\mywin_two.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 mainwindow.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\thresholds.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\86130\Documents\myHalcon\halconOperator\thresholds.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 halconOperator\thresholds.cpp)
+C:\Users\86130\Documents\myHalcon\mywin_three.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 mainwindow.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\h_operators.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 halconOperator\thresholds.cpp)
+C:\Users\86130\Documents\myHalcon\mywin.cpp(34,37): warning C4101: “e”: 未引用的局部变量
+C:\Users\86130\Documents\myHalcon\halconOperator\h_operators.cpp(82): warning C4172: 返回局部变量或临时变量的地址: s
+C:\Users\86130\Documents\myHalcon\halconOperator\h_operators.cpp(88): warning C4172: 返回局部变量或临时变量的地址: s
+C:\Users\86130\Documents\myHalcon\mywin.cpp(45,10): warning C4189: “hwndID”: 局部变量已初始化但不引用
+C:\Users\86130\Documents\myHalcon\mywin.cpp(105,44): warning C4100: “event”: 未引用的形参
+C:\Users\86130\Documents\myHalcon\mywin.cpp(243,13): warning C4189: “ddd”: 局部变量已初始化但不引用
+C:\Users\86130\Documents\myHalcon\mywin.cpp(242,13): warning C4189: “test”: 局部变量已初始化但不引用
+C:\Users\86130\Documents\myHalcon\mywin.cpp(247,37): warning C4101: “e”: 未引用的局部变量
+C:\Users\86130\Documents\myHalcon\mywin_two.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 main.cpp)
+C:\Users\86130\Documents\myHalcon\mywin_three.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 main.cpp)
+C:\Users\86130\Documents\myHalcon\mainwindow.cpp(41,41): warning C4101: “e”: 未引用的局部变量
+C:\Users\86130\Documents\myHalcon\mainwindow.cpp(100,41): warning C4101: “e”: 未引用的局部变量
+C:\Users\86130\Documents\myHalcon\mainwindow.cpp(346,5): warning C4100: “pos”: 未引用的形参
+C:\Users\86130\Documents\myHalcon\mainwindow.cpp(170,12): warning C4189: “menu4”: 局部变量已初始化但不引用
+C:\Users\86130\Documents\myHalcon\mainwindow.cpp(516,44): warning C4100: “dow”: 未引用的形参
+C:\Users\86130\Documents\myHalcon\mainwindow.cpp(533,41): warning C4101: “e”: 未引用的局部变量
+C:\Users\86130\Documents\myHalcon\halconOperator\thresholds.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 mywin_two.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\drawellipses.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 mywin_two.cpp)
+C:\Users\86130\Documents\myHalcon\MyWin.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 mywin_two.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\h_operators.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 halconOperator\openingcircle.cpp)
+C:\Users\86130\Documents\myHalcon\mywin_two.cpp(49,57): warning C4100: “win”: 未引用的形参
+C:\Users\86130\Documents\myHalcon\mywin_two.cpp(109,53): warning C4101: “e”: 未引用的局部变量
+C:\Users\86130\Documents\myHalcon\mywin_two.cpp(128,45): warning C4101: “e”: 未引用的局部变量
+C:\Users\86130\Documents\myHalcon\mywin_two.cpp(202,36): warning C4100: “event”: 未引用的形参
+C:\Users\86130\Documents\myHalcon\mywin_two.cpp(225,49): warning C4101: “e”: 未引用的局部变量
+C:\Users\86130\Documents\myHalcon\halconOperator\openingcircle.cpp(35,63): warning C4100: “v”: 未引用的形参
+C:\Users\86130\Documents\myHalcon\halconOperator\thresholds.cpp(31,37): warning C4101: “e”: 未引用的局部变量
+C:\Users\86130\Documents\myHalcon\halconOperator\thresholds.cpp(47,60): warning C4100: “v”: 未引用的形参
+  moc_drawellipses.cpp
+  moc_drawrects.cpp
+  moc_drawrotaterects.cpp
+  moc_mythread.cpp
+  moc_mywin.cpp
+  moc_closingcircle.cpp
+  moc_drawcircles.cpp
+  moc_mainwindow.cpp
+  moc_mywin_three.cpp
+  moc_mywin_two.cpp
+  moc_openingcircle.cpp
+  moc_thresholds.cpp
+C:\Users\86130\Documents\myHalcon\halconOperator\drawellipses.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Debug\moc_drawellipses.cpp)
+C:\Users\86130\Documents\myHalcon\mainwindow.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Debug\moc_mainwindow.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\h_operators.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Debug\moc_drawrects.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\h_operators.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Debug\moc_drawellipses.cpp)
+C:\Users\86130\Documents\myHalcon\mywin.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Debug\moc_mainwindow.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\h_operators.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Debug\moc_drawrotaterects.cpp)
+C:\Users\86130\Documents\myHalcon\mywin.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Debug\moc_mywin.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\thresholds.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Debug\moc_thresholds.cpp)
+C:\Users\86130\Documents\myHalcon\mywin_two.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Debug\moc_mywin_two.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\h_operators.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Debug\moc_thresholds.cpp)
+C:\Users\86130\Documents\myHalcon\createoperator.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Debug\moc_mywin_two.cpp)
+C:\Users\86130\Documents\myHalcon\mywin_three.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Debug\moc_mywin_three.cpp)
+C:\Users\86130\Documents\myHalcon\createoperator.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Debug\moc_mywin_three.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\h_operators.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Debug\moc_drawcircles.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\h_operators.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Debug\moc_mywin_three.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\h_operators.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Debug\moc_mywin_two.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\h_operators.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Debug\moc_openingcircle.cpp)
+C:\Users\86130\Documents\myHalcon\createoperator.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Debug\moc_mythread.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\h_operators.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Debug\moc_mythread.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\thresholds.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Debug\moc_mywin_three.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\thresholds.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Debug\moc_mywin_two.cpp)
+C:\Users\86130\Documents\myHalcon\createoperator.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Debug\moc_mainwindow.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\h_operators.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Debug\moc_mainwindow.cpp)
+C:\Users\86130\Documents\myHalcon\createoperator.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Debug\moc_mywin.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\h_operators.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Debug\moc_mywin.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\thresholds.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Debug\moc_mainwindow.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\thresholds.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Debug\moc_mythread.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\drawellipses.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Debug\moc_mywin_three.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\thresholds.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Debug\moc_mywin.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\drawellipses.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Debug\moc_mywin_two.cpp)
+C:\Users\86130\Documents\myHalcon\MyWin.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Debug\moc_mywin_two.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\drawellipses.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Debug\moc_mainwindow.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\drawellipses.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Debug\moc_mythread.cpp)
+C:\Users\86130\Documents\myHalcon\halconOperator\drawellipses.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Debug\moc_mywin.cpp)
+C:\Users\86130\Documents\myHalcon\mywin_two.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Debug\moc_mainwindow.cpp)
+C:\Users\86130\Documents\myHalcon\mywin_three.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Debug\moc_mainwindow.cpp)
+  myHalcon.vcxproj -> C:\Users\86130\Documents\myHalcon\debug\myHalcon.exe
